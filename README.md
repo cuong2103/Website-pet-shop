@@ -1,7 +1,6 @@
 # 🛒 Website CRUD & Simple Payment System
 
 Website quản lý sản phẩm với chức năng CRUD và thanh toán đơn giản  
-(Dùng cho mục đích học tập – không liên kết ngân hàng hay QR)
 
 ---
 
