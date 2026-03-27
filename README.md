@@ -30,7 +30,7 @@ Phù hợp cho sinh viên học PHP/Laravel.
 
 ## 🛠 Công nghệ sử dụng
 
-- PHP (Laravel hoặc PHP thuần MVC)
+- PHP (PHP thuần MVC)
 - MySQL
 - HTML, CSS, Bootstrap
 - Git & GitHub
